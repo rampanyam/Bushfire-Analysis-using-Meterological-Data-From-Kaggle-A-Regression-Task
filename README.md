@@ -1,7 +1,10 @@
 # Bushfire-Analysis-using-Meterological-Dataa-From-Kaggle--A-Regression-Task
 
-DATA SOURCE: https://archive.ics.uci.edu/ml/datasets/forest+fires
-TASK: Given data about forest fires, predict the damage caused by a given fire.
+- DATA SOURCE: https://archive.ics.uci.edu/ml/datasets/forest+fires
+
+
+
+- TASK: Given data about forest fires, predict the damage caused by a given fire.
 
 ### Programming Lnaguage  and Library requirements:
 Programming Language: R 3.5.1 in Jupyter Notebook
