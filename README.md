@@ -1,0 +1,1 @@
+# Bushfire-Analysis-using-Meterological-Dataa-From-Kaggle--A-Regression-Task
