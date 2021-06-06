@@ -1,4 +1,4 @@
-# Bushfire-Analysis-using-Meterological-Dataa-From-Kaggle--A-Regression-Task
+# Bushfire-Analysis-using-Meterological-Data-From-Kaggle--A-Regression-Task
 
 - DATA SOURCE: https://archive.ics.uci.edu/ml/datasets/forest+fires
 
